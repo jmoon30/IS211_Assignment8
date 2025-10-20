@@ -1,5 +1,5 @@
 
-# IS211 Assignment 8 — Pig (Factory + Proxy)
+# IS211 Assignment 8: Pig (Factory + Proxy)
 
 Adds two GoF patterns to Pig:
 - **Factory**: create `Human` or `Computer` players from CLI options.
